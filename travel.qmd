@@ -1,0 +1,12 @@
+---
+title: Travel & Reading
+draft: true  # set to false (and uncomment it in _quarto.yml) to publish
+---
+
+## Travel
+
+TODO: photos and notes from trips.
+
+## Reading
+
+TODO: books I've read and enjoyed.

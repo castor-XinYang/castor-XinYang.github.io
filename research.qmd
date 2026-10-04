@@ -1,0 +1,16 @@
+---
+title: Research Interests
+---
+
+- Latent variable models (hidden Markov and mixture models)
+
+- Integrative learning for heterogeneous data
+
+- Statistical machine learning in production
+
+- Causal inference and real-world evidence
+
+- Generative modeling
+
+See [Publications](publications.qmd) for my papers and
+[Software](software.qmd) for the accompanying code.

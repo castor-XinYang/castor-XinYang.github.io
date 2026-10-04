@@ -1,0 +1,69 @@
+project:
+  type: website
+  resources:
+    - cv
+    - images
+  render:
+    - "*.qmd"
+    - "posts/**/*.qmd"
+    - "!README.md"
+    - "!QUESTIONNAIRE.md"
+
+format:
+  html:
+    theme: theme.scss
+    css: styles.css
+    grid:
+      body-width: 1000px
+    include-in-header:
+      file: header.html
+
+website:
+  title: "Xin (Castor) Yang"
+  description: "Personal website of Xin (Castor) Yang — statistician and data scientist."
+  favicon: images/favicon.svg
+  site-url: https://castor-xinyang.github.io/
+  # Drafts (draft: true) are not rendered or linked. To publish the Blog or
+  # Travel & Reading page: set draft: false and uncomment its navbar entry.
+  draft-mode: gone
+  navbar:
+    left:
+      - text: Home
+        file: index.qmd
+      - text: Research
+        file: research.qmd
+      - text: Publications
+        file: publications.qmd
+      - text: Software
+        file: software.qmd
+      - text: CV
+        href: cv/Xin_Yang_CV.pdf
+        target: _blank
+      - text: Resume
+        href: cv/Xin_Yang_Resume.pdf
+        target: _blank
+      # - text: Blog
+      #   file: blog.qmd
+      # - text: Travel & Reading
+      #   file: travel.qmd
+    right:
+      - icon: envelope
+        href: mailto:xyang1260@gmail.com
+        aria-label: Email
+      - icon: github
+        href: https://github.com/castor-XinYang
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/xin-yang-58b4131a1/
+        aria-label: LinkedIn
+      # TODO: add once the Google Scholar profile exists
+      # - text: "{{< ai google-scholar size=xl >}}"
+      #   href: https://scholar.google.com/citations?user=TODO
+      #   aria-label: Google Scholar
+      - text: "{{< ai orcid size=xl >}}"
+        href: https://orcid.org/0009-0007-9341-5705
+        aria-label: ORCID
+    search: true
+
+  page-footer:
+    left: "© 2026 Xin (Castor) Yang. Built with [Quarto](https://quarto.org)."

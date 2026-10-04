@@ -1,0 +1,16 @@
+# Quarto
+/.quarto/
+/_site/
+/_freeze/
+**/*.quarto_ipynb
+
+# Local working files (originals live here; site copies are in cv/, images/, publications/)
+/inputs/
+/QUESTIONNAIRE.md
+
+# OS / editors
+.DS_Store
+.Rhistory
+.Rproj.user
+*.Rproj
+__pycache__/

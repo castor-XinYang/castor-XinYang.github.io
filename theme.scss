@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+
+// UConn navy
+$uconn-navy: #000E2F;
+$accent: #2A5DB0;
+
+$primary: $uconn-navy;
+$link-color: $accent;
+$body-color: #1f2430;
+
+$navbar-bg: $uconn-navy;
+$navbar-fg: #ffffff;
+$navbar-hl: #9fb8e6;
+
+$footer-bg: #f4f5f8;
+$footer-fg: #5a6070;
+
+$font-family-sans-serif: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+
+h2 {
+  color: $uconn-navy;
+  border-bottom: 2px solid rgba($uconn-navy, 0.12);
+  padding-bottom: 0.25rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

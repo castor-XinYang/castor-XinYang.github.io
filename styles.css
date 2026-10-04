@@ -1,0 +1,103 @@
+/* css styles */
+
+/* Subtitle (Chinese name) under the title on the home page */
+.quarto-title .subtitle {
+  font-size: 1.3rem;
+  letter-spacing: 0.15em;
+  color: #5a6070;
+}
+
+/* Icon-led entries (education, experience) */
+.entry {
+  margin-bottom: 0.9rem;
+}
+
+.entry .entry-meta {
+  color: #5a6070;
+}
+
+/* News list */
+.news ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.news li {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.news .news-date {
+  flex: 0 0 4.5em;
+  font-variant-numeric: tabular-nums;
+  color: #5a6070;
+}
+
+/* Publications */
+.pub {
+  margin-bottom: 1.4rem;
+}
+
+.pub-title {
+  font-weight: 600;
+}
+
+.pub-authors,
+.pub-venue {
+  margin: 0.1rem 0;
+}
+
+.pub-venue {
+  color: #5a6070;
+}
+
+.pub-note {
+  font-size: 0.9rem;
+  color: #5a6070;
+}
+
+.pub-links a {
+  display: inline-block;
+  margin-right: 0.4rem;
+  padding: 0 0.5rem;
+  font-size: 0.85rem;
+  border: 1px solid #c9d3e6;
+  border-radius: 4px;
+}
+
+.pub details {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.pub details[open] {
+  display: block;
+  margin-top: 0.3rem;
+}
+
+.pub details summary {
+  display: inline-block;
+  cursor: pointer;
+  font-size: 0.85rem;
+  padding: 0 0.5rem;
+  border: 1px solid #c9d3e6;
+  border-radius: 4px;
+  color: #2A5DB0;
+}
+
+.pub details pre {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+}
+
+/* Tables */
+.table td, .table th {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+.table td p {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}

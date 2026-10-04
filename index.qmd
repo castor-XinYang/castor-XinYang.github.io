@@ -1,0 +1,76 @@
+---
+title: "Xin (Castor) Yang"
+subtitle: "杨昕"
+image: images/profile.jpg
+image-alt: "Photo of Xin (Castor) Yang"
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:xyang1260@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/castor-XinYang
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/xin-yang-58b4131a1/
+---
+
+Associate Data Scientist at [Plymouth Rock Assurance](https://www.plymouthrock.com/)
+· Ph.D. in Statistics, [University of Connecticut](https://uconn.edu/) (2026)
+
+
+## About me
+
+Hi! I'm Xin (Castor) Yang, an Associate Data Scientist at
+[Plymouth Rock Assurance](https://www.plymouthrock.com/), where I build
+machine-learning models for insurance claims and deploy them in production.
+I received my Ph.D. in Statistics from the
+[University of Connecticut](https://uconn.edu/) in 2026, advised by
+[Dr. Kun Chen](https://kun-chen.uconn.edu/).
+My research develops hidden Markov and mixture models for single-particle data,
+in collaboration with chemists studying quantum dots.
+I enjoy working where rigorous statistics meets real-world decisions,
+and I'm currently exploring causal inference and generative modeling.
+
+
+## News
+
+::: {.news}
+- [2026-05]{.news-date} Received my Ph.D. in Statistics from the University of Connecticut.
+- [2025]{.news-date} Received the NESS Student Paper Award.
+:::
+
+
+## Experience
+
+::: {.entry}
+{{< fa briefcase >}} **Associate Data Scientist**, 2026–present\
+[Plymouth Rock Assurance]{.entry-meta}
+:::
+
+::: {.entry}
+{{< fa briefcase >}} **CMC Statistician (Co-op)**, 2021\
+[GlaxoSmithKline (GSK)]{.entry-meta}
+:::
+
+
+## Education
+
+::: {.entry}
+{{< fa graduation-cap >}} **Ph.D. in Statistics**, 2026\
+[University of Connecticut]{.entry-meta}
+:::
+
+::: {.entry}
+{{< fa graduation-cap >}} **M.S. in Applied Statistics**, 2021\
+[Villanova University]{.entry-meta}
+:::
+
+::: {.entry}
+{{< fa graduation-cap >}} **B.S. in Statistics**, 2019\
+[Nankai University]{.entry-meta}
+:::

@@ -1,0 +1,10 @@
+---
+title: Blog
+draft: true  # set to false (and uncomment Blog in _quarto.yml) to publish
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+---

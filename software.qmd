@@ -1,0 +1,10 @@
+---
+title: Software
+---
+
+| Package | Description | Links |
+|---------|-------------|-------|
+| **mhmmbeta** (R) | Finite mixture hidden Markov models with inflated-Beta emissions, for integrative analysis of single-quantum-dot intensity data. | [Paper](https://arxiv.org/abs/2501.01292) · Code coming soon |
+: {tbl-colwidths="[20, 60, 20]"}
+
+<!-- TODO: link the GitHub repo once mhmmbeta is public -->
