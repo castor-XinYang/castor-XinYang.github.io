@@ -23,8 +23,8 @@ website:
   description: "Personal website of Xin (Castor) Yang — statistician and data scientist."
   favicon: images/favicon.svg
   site-url: https://castor-xinyang.github.io/
-  # Drafts (draft: true) are not rendered or linked. To publish the Blog or
-  # Travel & Reading page: set draft: false and uncomment its navbar entry.
+  # Drafts (draft: true) are not rendered or linked. To publish a draft page
+  # or post: remove draft: true (and for a page, uncomment its navbar entry).
   draft-mode: gone
   navbar:
     left:
@@ -42,8 +42,8 @@ website:
       - text: Resume
         href: cv/Xin_Yang_Resume.pdf
         target: _blank
-      # - text: Blog
-      #   file: blog.qmd
+      - text: Blog
+        file: blog.qmd
       # - text: Travel & Reading
       #   file: travel.qmd
     right:

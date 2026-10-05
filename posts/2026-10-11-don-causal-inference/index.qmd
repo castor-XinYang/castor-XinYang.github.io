@@ -1,0 +1,15 @@
+---
+title: "Don Learns Causal Inference"
+date: 2026-10-11
+author: "Don"
+description: "How do we move from noticing that two things happen together to asking whether one actually causes the other?"
+image: ../../images/beavitus/don.jpg
+categories:
+  - Don
+  - Learning Notes
+  - Statistics
+  - Causal Inference
+draft: true  # remove this line on publication day (and drop the Upcoming card in blog.qmd)
+---
+
+TODO: Don's first note.

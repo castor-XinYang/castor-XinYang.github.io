@@ -1,9 +1,0 @@
----
-title: "My First Post"
-date: 2026-10-04
-categories: [notes]
-description: "A placeholder post. Replace this with real content."
-draft: true  # remove this line to publish the post
----
-
-TODO: write the first post.
