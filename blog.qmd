@@ -141,3 +141,15 @@ about causes using imperfect observational data.
 
 ::: {#recent-notes}
 :::
+
+
+::: {.beavitus-disclaimer}
+The plush toys featured on this website are privately owned and photographed.
+The characters, names, personalities, stories, and other creative content
+presented on this site are original creations for this personal project.
+
+This website is an independent personal project and is not affiliated with,
+sponsored by, endorsed by, or officially associated with Squishmallows,
+Jazwares, or Kelly Toys. All trademarks and related intellectual property
+belong to their respective owners.
+:::

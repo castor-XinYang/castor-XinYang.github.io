@@ -239,3 +239,16 @@
 @media (max-width: 600px) {
   .upcoming-card { flex-direction: column; align-items: flex-start; }
 }
+
+.beavitus-disclaimer {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ece4d8;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: #6b7080;
+}
+
+.beavitus-disclaimer p {
+  margin-bottom: 0.5rem;
+}
